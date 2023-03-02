@@ -5,10 +5,10 @@
  *  Created on: 2016年7月20日
  *      Author: Andy_Cong
  */
-#include<stdio.h>
-#include<stdlib.h>
+#include <stdio.h>
+#include <stdlib.h>
 #include <time.h>
-#include<errno.h>
+#include <errno.h>
 
 // tm结构
 // struct tm
