@@ -59,7 +59,7 @@ int main(int argc,char *argv[])
 {
 	if(argc<2)
 		return 0;
-	writelog(argv[1],"write log");
+	writelog(argv[1],"hello word!");
 	return 0;
 }
 //运行结果
